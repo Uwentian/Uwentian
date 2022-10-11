@@ -42,3 +42,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/RJVw6tIfb2dI
 
 ---
 ### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uwentian&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uwentian)](https://github.com/Uwentian/github-readme-stats)
