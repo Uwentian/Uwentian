@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-gray?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/c/A4a4a4a4">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-gray?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   
 <div id="viewprof" align="center">
@@ -20,9 +20,3 @@
   <img src="https://media.giphy.com/media/dYx3YFq2OiVLIssQH9/giphy.gif" width="30px"/>
 </h1>
 </div>
-  
-<div align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="600" height="300"/>
-</div>
-
-### 👨‍💻 About Me :
