@@ -31,6 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/RJVw6tIfb2dI
 
 - :point_right: Любимый видеоблогер Влад А4 Бумага
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ---
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
@@ -44,3 +45,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/RJVw6tIfb2dI
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uwentian&hide_border=true&locale=ru)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uwentian)](https://github.com/Uwentian/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Uwentian)](https://github.com/Uwentian/github-readme-activity-graph)
